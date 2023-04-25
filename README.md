@@ -8,8 +8,7 @@ I'm an aspiring data scientist and full-stack developer,currently pursuing a bac
    <p align="left">
       <a href="https://github.com/ketanspage=?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ketanspage?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="[https://github.com/ketanspage=?tab=followers](https://www.linkedin.com/in/ketan-gandhi-68840821b/)">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+   
    
    </p>
 
