@@ -44,7 +44,12 @@
 .header-profile-icons {
   display: flex;
 }
-
+.Box-menu-1{
+  display: none;
+}
+.Profile-Menu-1{
+  display: none;
+}
 @media screen and (max-width: 768px) {
   .menu-section {
     flex-direction: column;
@@ -52,15 +57,30 @@
   .search-btns {
     display: none;
   }
-
-  .header-profile-icons {
+  .head-section {
+    flex-direction: row;
+    justify-content: space-between; /* Add this line to create space between Box-menu-1 and Profile-Menu-1 */
+  }
+  .Profile-Menu-1 {
+    display: block;
+    margin-left: 180px; /* Adjust this value as needed to create space */
+    margin-top: 0px;
+  }
+  .Box-menu-1 {
+    display: block;
+    margin-right: 180px; /* Adjust this value as needed to create space */
+    margin-top: 0px;
+  }
+  .Box-menu {
+    display: none;
+  }
+  .Profile-Menu {
     display: none;
   }
   .topmenu-menu-search .search-cont {
     width: 100%;
     position: relative !important;
   }
-
   .menu-section {
     display: flex;
     align-items: center;
@@ -68,12 +88,123 @@
     padding-bottom: 20px;
     padding-top: 20px;
   }
-
+  .head-section {
+    display: flex;
+    align-items: center;
+    padding: 0;
+    padding-bottom: 20px;
+    padding-top: 20px;
+  }
   .menu-section .topmenu-menu-search .search-cont {
     top: 0;
     left: 0;
   }
-
+  .menu-section .menu-search {
+    width: 98vw;
+  }
+}
+@media screen and (max-width: 650px) {
+  .menu-section {
+    flex-direction: column;
+  }
+  .search-btns {
+    display: none;
+  }
+  .head-section {
+    flex-direction: row;
+    justify-content: space-between; /* Add this line to create space between Box-menu-1 and Profile-Menu-1 */
+  }
+  .Profile-Menu-1 {
+    display: block;
+    margin-left: 50px; /* Adjust this value as needed to create space */
+    margin-top: -15px;
+  }
+  .Box-menu-1 {
+    display: block;
+    margin-right: 50px; /* Adjust this value as needed to create space */
+    margin-top: -15px;
+  }
+  .Box-menu {
+    display: none;
+  }
+  .Profile-Menu {
+    display: none;
+  }
+  .topmenu-menu-search .search-cont {
+    width: 100%;
+    position: relative !important;
+  }
+  .menu-section {
+    display: flex;
+    align-items: center;
+    padding: 0;
+    padding-bottom: 20px;
+    padding-top: 20px;
+  }
+  .head-section {
+    display: flex;
+    align-items: center;
+    padding: 0;
+    padding-bottom: 20px;
+    padding-top: 20px;
+  }
+  .menu-section .topmenu-menu-search .search-cont {
+    top: 0;
+    left: 0;
+  }
+  .menu-section .menu-search {
+    width: 98vw;
+  }
+}
+@media screen and (max-width: 300px) {
+  .menu-section {
+    flex-direction: column;
+  }
+  .search-btns {
+    display: none;
+  }
+  .head-section {
+    flex-direction: row;
+    justify-content: space-between; /* Add this line to create space between Box-menu-1 and Profile-Menu-1 */
+  }
+  .Profile-Menu-1 {
+    display: block;
+    margin-left: 12px; /* Adjust this value as needed to create space */
+    margin-top: -14px;
+  }
+  .Box-menu-1 {
+    display: block;
+    margin-right: 12px; /* Adjust this value as needed to create space */
+    margin-top: -14px;
+  }
+  .Box-menu {
+    display: none;
+  }
+  .Profile-Menu {
+    display: none;
+  }
+  .topmenu-menu-search .search-cont {
+    width: 100%;
+    position: relative !important;
+  }
+  .menu-section {
+    display: flex;
+    align-items: center;
+    padding: 0;
+    padding-bottom: 20px;
+    padding-top: 20px;
+  }
+  .head-section {
+    display: flex;
+    align-items: center;
+    padding: 0;
+    padding-bottom: 20px;
+    padding-top: 20px;
+  }
+  .menu-section .topmenu-menu-search .search-cont {
+    top: 0;
+    left: 0;
+  }
   .menu-section .menu-search {
     width: 98vw;
   }

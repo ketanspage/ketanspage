@@ -9,21 +9,34 @@ import ProfileMenuDrop from "./profilemenudrop";
 const Header = () => {
   return (
     <div className="menu">
-      <div className="menu-section">
+     <div className="menu-section">
+        <div className="head-section">
+        <div className="Box-menu-1">
+          <BoxMenuDrop />
+          </div>
         <Link to="/" style={{ textDecoration: "none" }}>
           <Logo />
         </Link>
+       
+        <div className="Profile-Menu-1">
+          <ProfileMenuDrop />
+          </div>
+      </div>
         <div className="topmenu-menu-search menu-search">
           <TopSearchBox />
         </div>
       </div>
-      <div className="menu-section">
-        <div className="header-profile-icons">
+      
+      <div className="menu-section">  
+    <div className="Box-menu">
           <BoxMenuDrop />
+          </div>
+          <div className="Profile-Menu">
           <ProfileMenuDrop />
-        </div>
+  </div>
+  </div>
       </div>
-    </div>
+  
   );
 };
 

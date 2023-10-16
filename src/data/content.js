@@ -51,9 +51,28 @@ export const Content = [
     excerpt: `A financial Dashboard created for a startup venture credit ghar`
   },
   {
+    category: "social",
+    link: "https://www.instagram.com/iamketangandhi/",
+    name: "Instagram",
+    excerpt: `Follow Ketan on instagram.`
+  },
+  {
     category: "works",
     link: "https://github.com/ketanspage/outlier_machines_identification",
     name: "Legal Chatbot",
     excerpt: `A chatbot to help people with legal queries`
   },
+  {
+    category: "works",
+    link: "https://ketanspage.github.io/The_breakout_game-/",
+    name: "The breakout game",
+    excerpt: `A small fun game created using javascript`
+  },
+
+  {
+    category: "works",
+  link:"https://github.com/ketanspage/FITNESS-CENTRE-COUNTER-SOFTWARE",
+  name: "Fitness Centre Counter Software",
+  excerpt: `it is an ERP software used in fitness centers for day-to-day data access and for storing new records in organized manner whenever needed. This software stores details of our various costumers. We can check the age, joining date and a few other details of our costumer and perform tasks like updating the existing and adding new records to the database. This software helps us to create profile for new customers, update existing records as per the requirement.`
+}
 ];

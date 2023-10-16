@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.396f4319.chunk.css",
+    "main.js": "/static/js/main.371f78ba.chunk.js",
+    "main.js.map": "/static/js/main.371f78ba.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d5b4e15f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d5b4e15f.js.map",
+    "static/js/2.dac6c273.chunk.js": "/static/js/2.dac6c273.chunk.js",
+    "static/js/2.dac6c273.chunk.js.map": "/static/js/2.dac6c273.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.396f4319.chunk.css.map": "/static/css/main.396f4319.chunk.css.map",
+    "static/js/2.dac6c273.chunk.js.LICENSE.txt": "/static/js/2.dac6c273.chunk.js.LICENSE.txt",
+    "static/media/CryptographyVisualizer.873e9d90.png": "/static/media/CryptographyVisualizer.873e9d90.png",
+    "static/media/blobby.6b3f6eb6.png": "/static/media/blobby.6b3f6eb6.png",
+    "static/media/distance-two-locations.386e1a9c.jpg": "/static/media/distance-two-locations.386e1a9c.jpg",
+    "static/media/e-logo.aa2762fc.png": "/static/media/e-logo.aa2762fc.png",
+    "static/media/geo-guess.21a94994.png": "/static/media/geo-guess.21a94994.png",
+    "static/media/geolocation-api.a10d8bed.jpg": "/static/media/geolocation-api.a10d8bed.jpg",
+    "static/media/gfolio.4b968882.png": "/static/media/gfolio.4b968882.png",
+    "static/media/image.3c355ea3.png": "/static/media/image.3c355ea3.png",
+    "static/media/info.df517275.png": "/static/media/info.df517275.png",
+    "static/media/jpg2svg.e3e3744c.png": "/static/media/jpg2svg.e3e3744c.png",
+    "static/media/libre-logos.67250bd7.svg": "/static/media/libre-logos.67250bd7.svg",
+    "static/media/linkedIn-icon.68ac41e1.png": "/static/media/linkedIn-icon.68ac41e1.png",
+    "static/media/newspaper.886b32fb.png": "/static/media/newspaper.886b32fb.png",
+    "static/media/suitcase.e14b0bb3.png": "/static/media/suitcase.e14b0bb3.png",
+    "static/media/svg-advantages-and-disadvantages.22116676.jpg": "/static/media/svg-advantages-and-disadvantages.22116676.jpg",
+    "static/media/tutcode.ec4d5511.png": "/static/media/tutcode.ec4d5511.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5b4e15f.js",
+    "static/js/2.dac6c273.chunk.js",
+    "static/css/main.396f4319.chunk.css",
+    "static/js/main.371f78ba.chunk.js"
+  ]
+}

@@ -61,7 +61,7 @@ const ProfileMenuDrop = () => {
           />
           <p className="detail-text"> Ketan Gandhi </p>
           <p className="detail-text"> gandhi.ketan55555@gmail.com </p>
-          <a href="https://enjeck.com"> Chatbot </a>
+          <Link  className="drop-link" to="/chat"> Chatbot </Link>
         </div>
         <Link className="second-detail" to="/about">
           <FontAwesomeIcon className="fa-user-plus" icon={faUserPlus} />
